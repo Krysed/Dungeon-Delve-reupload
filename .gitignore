@@ -1,0 +1,8 @@
+*.sln
+raylib-master
+resources/
+premake*
+raylib*
+_lib
+_build
+_app
